@@ -1,0 +1,27 @@
+{
+  "name": "@videogen/piece-videogen",
+  "version": "0.1.0",
+  "main": "./dist/src/index.js",
+  "dependencies": {},
+  "files": [
+    "dist/src/index.js",
+    "dist/src/index.js.LEGAL.txt",
+    "README.md",
+    "ACTIVEPIECES-LICENSE",
+    "LICENSE"
+  ],
+  "description": "VideoGen storyboard video, export status and account actions for Activepieces.",
+  "homepage": "https://videogen.io/videogen-mcp",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/video-gen/activepieces-videogen.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "activepieces",
+    "activepieces-piece",
+    "videogen",
+    "video",
+    "storyboard"
+  ]
+}

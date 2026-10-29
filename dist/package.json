@@ -1,0 +1,11 @@
+{
+  "name": "@activepieces/piece-videogen",
+  "version": "0.0.1",
+  "main": "./src/index.js",
+  "dependencies": {},
+  "files": [
+    "src/index.js",
+    "package.json",
+    "src/i18n"
+  ]
+}
